@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sirius Publishing House</title>
+    <meta name="description" content="Sirius is a small art press in Edinburgh. We publish slowly: sewn bindings, cotton papers, numbered editions." />
+    <link rel="preload" href="/fonts/boska-400.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/boska-400-italic.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="/src/style.css" />
+    <style>html, body { background: #eee6d6; }</style>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23EEE6D6'/%3E%3Cpath d='M16 4l2.2 9.8L28 16l-9.8 2.2L16 28l-2.2-9.8L4 16l9.8-2.2z' fill='%23231C17'/%3E%3C/svg%3E" />
+  </head>
+  <body class="is-intro">
+    <p class="loader" aria-live="polite">Setting type…</p>
+    <header class="masthead" data-tone="paper">
+      <a class="logo" href="#top" aria-label="Sirius Publishing House, home">Sirius</a>
+      <nav class="menu" aria-label="Main">
+        <a href="#books">Books</a>
+        <a href="#authors">Authors</a>
+        <a href="#journal">Journal</a>
+        <a href="#submissions">Submissions</a>
+        <a href="#about">About</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="track" id="track" aria-label="The story of Sirius">
+        <div class="stage">
+          <canvas id="gl" aria-hidden="true"></canvas>
+
+          <!-- Scene 1 — hero -->
+          <div class="layer hero" data-layer="hero">
+            <h1 class="sr-only">Sirius Publishing House</h1>
+            <p class="hero__sub" aria-hidden="true">Publishing House</p>
+            <p class="hero__est">Est. 1987 — Edinburgh</p>
+            <p class="hero__cue" aria-hidden="true"><span>Turn the page</span></p>
+          </div>
+
+          <!-- Scenes 3 — the book (rendered in WebGL; text kept here for readers) -->
+          <div class="sr-only" id="about">
+            <article>
+              <h2>We publish slowly.</h2>
+              <p>Sirius began in 1987 in a former bindery on Lantern Row, with one hand-fed press and a conviction that some books should take longer to make than to read. We still believe it.</p>
+            </article>
+            <article>
+              <h2>New this season: The Cartographer of Small Rooms, by Ilse Varga</h2>
+              <p>A retired mapmaker begins charting the apartment she can no longer leave — every crack in the plaster becomes a river, every draught a prevailing wind. A novel about the size of a life.</p>
+            </article>
+            <article>
+              <h2>Every copy, made by hand.</h2>
+              <p>Sewn bindings. Cotton papers from a mill in the Ardèche. Covers set in metal type. Small editions, numbered and signed. 39 years on Lantern Row, 64 titles in print, 11 languages.</p>
+            </article>
+          </div>
+
+          <!-- Scene 6 — constellation -->
+          <div class="layer sky" data-layer="sky" id="books">
+            <div class="sky__head">
+              <h2 class="sky__title">Our <em>constellation</em></h2>
+              <p class="sky__sub">Seven new books, each a star of its own. Hover to read.</p>
+            </div>
+            <svg class="sky__lines" aria-hidden="true"></svg>
+            <ul class="sky__stars" aria-label="Catalogue"></ul>
+            <aside class="card" aria-live="polite" hidden></aside>
+          </div>
+
+          <!-- Scene 7 — finale -->
+          <div class="layer finale" data-layer="finale" id="submissions">
+            <h2 class="finale__title"><span>Every book begins</span> <span>with a single line.</span></h2>
+            <p class="finale__send">Send us yours.</p>
+            <div class="finale__body">
+              <p>We read every manuscript that arrives — slowly, and with care. Submissions are open from January to March.</p>
+              <a class="cta" href="mailto:hello@sirius-house.press?subject=Manuscript">Submit a manuscript <span aria-hidden="true">→</span></a>
+            </div>
+            <address class="finale__addr">
+              Sirius Publishing House<br />
+              7 Lantern Row, Edinburgh EH1 2QL<br />
+              <a href="mailto:hello@sirius-house.press">hello@sirius-house.press</a>
+            </address>
+          </div>
+
+          <!-- running feet -->
+          <div class="feet" aria-hidden="true">
+            <span class="feet__left">Sirius — Publishing House</span>
+            <span class="feet__right"><span class="feet__label">Lantern Row</span><span class="feet__folio">№ 01 / 07</span></span>
+          </div>
+        </div>
+      </section>
+
+      <footer class="colophon" id="journal">
+        <div class="colophon__grid">
+          <p class="colophon__mark">Colophon</p>
+          <p class="colophon__text">
+            © 2026 Sirius Publishing House — a fictional imprint made for a design demo.
+            Set in <em>Boska</em> (Indian Type Foundry), <em>Newsreader</em> (Production Type) and <em>Fragment Mono</em>.
+            Quill, inkwell and book are built procedurally in three.js; photographs from Unsplash, placeholders.
+          </p>
+          <p class="colophon__ed">Edition of one.<br />Printed on screen, 2026.</p>
+        </div>
+      </footer>
+    </main>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

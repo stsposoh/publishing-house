@@ -1,0 +1,323 @@
+[    4341ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 320.09999999403954, rating: good, delta: 320.09999999403954} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[    4341ms] [LOG] %cusr: color:gray {locale: en-US} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[    4341ms] [LOG] %croute_data: color:gray Search-Photos @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[    7591ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 876.1999999880791, rating: needs-improvement, delta: 876.1999999880791} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[    7591ms] [LOG] %cusr: color:gray {locale: en-US} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[    7591ms] [LOG] %croute_data: color:gray Search-Photos @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[   10950ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 795.4000000059605, rating: good, delta: 795.4000000059605} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[   10950ms] [LOG] %cusr: color:gray {locale: en-US} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[   10950ms] [LOG] %croute_data: color:gray Search-Photos @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[   14477ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 834.0999999940395, rating: needs-improvement, delta: 834.0999999940395} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[   14478ms] [LOG] %cusr: color:gray {locale: en-US} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[   14478ms] [LOG] %croute_data: color:gray Search-Photos @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[   18253ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 1166.5, rating: needs-improvement, delta: 1166.5} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[   18253ms] [LOG] %cusr: color:gray {locale: en-US} @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[   18253ms] [LOG] %croute_data: color:gray Search-Photos @ https://unsplash.com/a/en-US/b.ea37e6a93f.js:4
+[  630005ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  633196ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  635174ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  637032ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  639017ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  680227ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  682893ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  702057ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5178/src/hero.js?t=1792919333753:0
+[  705062ms] [WARNING] The resource http://localhost:5178/fonts/boska-400.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:5178/?t=9:0
+[  705062ms] [WARNING] The resource http://localhost:5178/fonts/boska-400-italic.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ http://localhost:5178/?t=9:0
+[  712281ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  720978ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  722632ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  724413ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  726167ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  727848ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  776264ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  782920ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  785208ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[  787496ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[ 1004334ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[ 1119096ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[ 1129042ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5178/@vite/client:367
+[ 1590645ms] [ERROR] THREE.WebGLProgram: Shader Error 0 - VALIDATE_STATUS false
+
+Material Name: 
+Material Type: ShaderMaterial
+
+Program Info Log: Fragment shader is not compiled.
+
+FRAGMENT
+
+ERROR: 0:144: 'col' : redefinition
+ERROR: 0:145: '=' : dimension mismatch
+ERROR: 0:145: '=' : cannot convert from 'highp 3-component vector of float' to 'highp float'
+ERROR: 0:147: '=' : dimension mismatch
+ERROR: 0:147: '=' : cannot convert from 'highp 3-component vector of float' to 'highp float'
+
+  139:         float H = uRes.y / uDpr;
+  140:         float wave = vnoise(vec2(px.x * 0.004, 2.0)) * 70.0 + vnoise(vec2(px.x * 0.02, 5.0)) * 18.0;
+  141:         float front = uDrain * (H + 640.0) - wave;
+  142:         float back = smoothstep(front + 1.2, front - 1.2, px.y);
+  143:         // trails: narrow columns of thinned ink above the falling edge
+> 144:         float col = pow(vnoise(vec2(px.x * 0.11, 3.0)), 5.0) + pow(vnoise(vec2(px.x * 0.031, 8.0)), 7.0) * 1.4;
+  145:         float L = col * 520.0;
+  146:         float above = front - px.y;
+  147:         float trail = (1.0 - smoothstep(0.0, max(L, 1.0), above)) * smoothstep(0.05, 0.22, col) * step(0.0, above);
+  148:         trail *= 0.55 + 0.45 * vnoise(vec2(px.x * 0.6, px.y * 0.02));
+  149:         back *= 1.0 - trail * 0.85;
+  150:         float pool = smoothstep(10.0, 0.0, abs(px.y - front)) * (1.0 - back); @ http://localhost:5178/@vite/client:367
+[ 1590646ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590705ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590723ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590740ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590757ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590773ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590791ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590807ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590824ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590841ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590856ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590873ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590889ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590907ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590923ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590940ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590957ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590974ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1590990ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591007ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591024ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591039ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591056ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591073ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591089ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591107ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591123ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591140ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591157ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591174ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591190ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591207ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591224ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591240ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591257ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591274ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591290ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591307ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591324ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591340ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591357ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591374ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591390ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591407ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591424ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591440ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591458ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591473ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591491ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591506ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591527ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591546ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591557ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591574ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591590ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591607ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591623ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591641ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591657ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591674ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591690ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591708ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591724ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591741ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591757ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591775ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591791ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591807ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591824ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591841ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591858ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591874ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591892ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591907ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591923ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591941ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591957ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591974ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1591991ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592008ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592029ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592041ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592057ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592074ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592091ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592107ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592124ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592141ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592157ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592174ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592190ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592208ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592223ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592241ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592257ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592274ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592291ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592307ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592324ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592341ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592358ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592374ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592394ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592408ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592425ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592440ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592458ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592474ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592491ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592508ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592524ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592541ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592558ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592574ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592591ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592607ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592625ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592641ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592658ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592674ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592690ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592708ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592724ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592741ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592758ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592774ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592790ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592808ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592824ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592841ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592858ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592874ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592890ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592908ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592924ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592940ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592958ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592973ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1592991ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593007ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593024ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593040ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593058ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593074ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593091ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593107ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593124ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593141ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593157ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593174ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593190ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593208ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593225ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593241ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593258ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593274ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593291ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593308ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593324ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593341ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593358ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593374ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593391ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593407ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593424ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593441ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593458ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593475ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593491ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593508ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593525ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593544ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593559ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593575ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593592ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593608ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593625ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593641ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593657ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593675ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593691ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593708ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593725ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593741ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593758ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593775ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593790ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593807ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593824ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593841ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593858ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593875ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593891ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593910ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593929ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593942ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593958ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593975ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1593992ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594008ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594024ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594042ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594058ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594075ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594092ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594108ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594124ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594142ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594158ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594175ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594192ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594208ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594225ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594242ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594258ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594274ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594291ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594309ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594324ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594341ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594358ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594374ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594392ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594408ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594424ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594442ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594458ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594474ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594491ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594508ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594525ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594542ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594558ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594574ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594592ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594608ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594625ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594642ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594658ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594675ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594692ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594708ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594725ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594742ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594759ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594775ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594791ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594809ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594825ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594842ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594858ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594875ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594892ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594909ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594925ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594942ms] [WARNING] WebGL: INVALID_OPERATION: useProgram: program not valid @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 1594942ms] [WARNING] WebGL: too many errors, no more errors will be reported to the console for this context. @ http://localhost:5178/node_modules/.vite/deps/three.module-DFtsUDDU.js?v=9b6fb5be:47704
+[ 2551399ms] [INFO] Launched external handler for 'mailto:hello@sirius-house.press?subject=Manuscript'. @ http://localhost:5178/:0
