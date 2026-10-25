@@ -124,7 +124,7 @@ function furniture(ctx, f, side, folio, head) {
 
 export async function buildPages() {
   const load = (src) => new Promise((res) => { const i = new Image(); i.onload = () => res(i); i.src = src; });
-  const [press, cover, spine] = await Promise.all([load('/img/press.jpg'), load('/img/cover.jpg'), load('/img/spine.jpg')]);
+  const [press, cover, spine] = await Promise.all([load(`${import.meta.env.BASE_URL}img/press.jpg`), load(`${import.meta.env.BASE_URL}img/cover.jpg`), load(`${import.meta.env.BASE_URL}img/spine.jpg`)]);
 
   const pages = [];
 

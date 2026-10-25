@@ -23,7 +23,7 @@ export async function createHero(stage, quill) {
   const { scene, pxToWorld, pxLen, view } = stage;
 
   /* ---------- ink: word ---------- */
-  const sirius = await loadSirius('/sirius.svg');
+  const sirius = await loadSirius(`${import.meta.env.BASE_URL}sirius.svg`);
   const wordSched = schedule(sirius.strokes, { speed: 1250, lift: 0.075, liftSpeed: 2700, dotTime: 0.06 });
   const wordTex = arrivalTexture(sirius.strokes, wordSched, sirius.box, 2600);
   const wordMat = inkMaterial(wordTex.tex, wordSched.total);
